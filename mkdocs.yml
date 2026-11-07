@@ -1,0 +1,158 @@
+site_name: LevelCraft Documentation
+site_description: Official-style documentation portal for the LevelCraft Minecraft RPG progression plugin by MythicGhoul.
+site_url: https://mythicghoul.github.io/LevelCraft/
+repo_url: https://github.com/MythicGhoul/LevelCraft
+repo_name: MythicGhoul/LevelCraft
+edit_uri: edit/main/docs/
+copyright: © 2026 MythicGhoul · Independent Minecraft plugin development
+theme:
+  name: material
+  language: en
+  logo: assets/icon.svg
+  favicon: assets/icon.svg
+  palette:
+  - scheme: slate
+    primary: deep purple
+    accent: cyan
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+  - scheme: default
+    primary: deep purple
+    accent: cyan
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.indexes
+  - navigation.expand
+  - navigation.top
+  - navigation.footer
+  - toc.follow
+  - search.suggest
+  - search.highlight
+  - search.share
+  - content.code.copy
+  - content.tabs.link
+plugins:
+- search:
+    lang: en
+markdown_extensions:
+- admonition
+- attr_list
+- def_list
+- footnotes
+- tables
+- toc:
+    permalink: true
+- pymdownx.details
+- pymdownx.superfences:
+    custom_fences:
+    - name: mermaid
+      class: mermaid
+      format: !!python/name:pymdownx.superfences.fence_code_format
+- pymdownx.inlinehilite
+- pymdownx.snippets
+- pymdownx.tabbed:
+    alternate_style: true
+extra_css:
+- stylesheets/extra.css
+extra:
+  generator: false
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/MythicGhoul/LevelCraft
+  - icon: fontawesome/solid/globe
+    link: https://mythicsuite.co.uk/
+nav:
+- Home: index.md
+- Getting started:
+  - Overview: getting-started/overview.md
+  - Installation: getting-started/installation.md
+  - Your first character: getting-started/first-character.md
+  - FAQ: getting-started/faq.md
+- Progression:
+  - Overview: progression/overview.md
+  - Levels & XP: progression/leveling.md
+  - Skills:
+    - All 11 skills: progression/skills/index.md
+    - Combat: progression/skills/combat.md
+    - Mining: progression/skills/mining.md
+    - Woodcutting: progression/skills/woodcutting.md
+    - Farming: progression/skills/farming.md
+    - Fishing: progression/skills/fishing.md
+    - Hunting: progression/skills/hunting.md
+    - Smithing: progression/skills/smithing.md
+    - Exploration: progression/skills/exploration.md
+    - Excavation: progression/skills/excavation.md
+    - Crafting: progression/skills/crafting.md
+    - Sorcery: progression/skills/sorcery.md
+  - Milestones: progression/milestones.md
+  - Races: progression/races.md
+  - Paths: progression/paths.md
+  - Guild ranks: progression/guild-ranks.md
+  - Prestige & souls: progression/prestige.md
+- Quests:
+  - Quest system: quests/overview.md
+  - Questlines & sign walls: quests/quest-walls.md
+  - Promotion exams: quests/promotions.md
+- Equipment:
+  - Overview: equipment/overview.md
+  - Rarity: equipment/rarity.md
+  - Power Level: equipment/power-level.md
+  - Forging: equipment/forging.md
+  - Socket gems: equipment/sockets.md
+  - Combat & health: equipment/combat-scaling.md
+- Magic:
+  - Sorcery overview: magic/overview.md
+  - Spell catalogue: magic/spells.md
+  - Wands: magic/wands.md
+  - Mana & cooldowns: magic/mana.md
+- World:
+  - Overview: world/overview.md
+  - Mob scaling: world/mob-scaling.md
+  - Corruption: world/corruption.md
+  - World shrines: world/shrines.md
+  - Bosses: world/bosses.md
+  - Roaming encounters: world/encounters.md
+  - World events: world/events.md
+  - Dynmap & BlueMap: world/maps.md
+- Economy:
+  - Overview: economy/overview.md
+  - Coins: economy/coins.md
+  - NPC shops: economy/npc-shops.md
+  - Custom items: economy/custom-items.md
+  - Crafting & transmutation: economy/crafting-systems.md
+- Social:
+  - Overview: social/overview.md
+  - Parties: social/parties.md
+  - Clans: social/clans.md
+  - Player trading: social/player-trading.md
+  - Nametags: social/nametags.md
+- Administration:
+  - Overview: administration/overview.md
+  - Admin GUIs: administration/admin-gui.md
+  - EXP crystals: administration/exp-crystals.md
+  - Backups & updates: administration/backups.md
+  - Performance: administration/performance.md
+  - Troubleshooting: administration/troubleshooting.md
+  - Security: administration/security.md
+- Reference:
+  - Commands: reference/commands.md
+  - Permissions: reference/permissions.md
+  - Placeholders: reference/placeholders.md
+  - Configuration: reference/configuration.md
+  - Quest YAML: reference/quests-config.md
+  - NPC YAML: reference/npc-config.md
+  - Integrations: reference/integrations.md
+- Developers:
+  - Architecture: development/architecture.md
+  - Extending systems: development/integrating.md
+  - Testing: development/testing.md
+- About:
+  - Sources & verification: about/sources.md
+  - Documentation changelog: about/changelog.md
+  - Licence: about/licence.md
