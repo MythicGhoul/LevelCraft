@@ -41,3 +41,7 @@ The custom forge and ordinary vanilla smithing are related but not interchangeab
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

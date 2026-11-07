@@ -6,8 +6,10 @@ World events give players time-limited reasons to explore, fight and compete. Th
 
 A global XP event applies a multiplier to eligible skill awards. Its status can be exposed through `%levelcraft_xp_event_active%`, `%levelcraft_xp_event_multiplier%` and `%levelcraft_xp_event_remaining%`.
 
-!!! tip "Testing a multiplier"
-    Compare the same eligible action under normal conditions and while the event is active. If a 2× event still grants only the base amount, verify that the multiplier is applied at the final award point, not only to GUI display messages.
+> **Testing a multiplier**
+>
+> Compare the same eligible action under normal conditions and while the event is active. If a 2× event still grants only the base amount, verify that the multiplier is applied at the final award point, not only to GUI display messages.
+
 
 ## Blood Moon
 
@@ -24,3 +26,7 @@ Corruption systems can trigger server-wide threats or themed storms. Administrat
 ## Event setup checklist
 
 Set a maximum number of affected mobs, schedule appropriate downtime between events, exclude protected areas and verify that rewards cannot be repeatedly claimed through relogging or region hopping.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

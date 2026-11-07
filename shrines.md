@@ -24,5 +24,10 @@ Loot chests and vanilla structures may contain unconverted weapons, armour and t
 
 A referenced command handler supports `/lc admin shrine spawn` to generate a test shrine near the executing player. Use it on staging and validate terrain, schematic placement, loot, state saves and collapse cleanup.
 
-!!! warning "World editing"
-    Schematic placement and destructive collapse affect world blocks. Keep backups and test protection-plugin interactions. Optional WorldEdit/FAWE integration is build-dependent.
+> **World editing**
+>
+> Schematic placement and destructive collapse affect world blocks. Keep backups and test protection-plugin interactions. Optional WorldEdit/FAWE integration is build-dependent.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

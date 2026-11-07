@@ -28,3 +28,7 @@ The bomb family uses **fire charges** as a base item in the referenced design, w
 ## Custom item correctness
 
 Never recreate a custom item by copying its visible lore alone. Use the official item-creation GUI/command or the correct `ItemStack` metadata so identifiers, permissions and effects work.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

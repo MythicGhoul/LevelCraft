@@ -33,3 +33,7 @@ If an upgrade corrupts data, stop the server and restore both the matching JAR *
 ## Secrets and privacy
 
 Before committing anything publicly, remove webhook URLs, database credentials, API tokens, player UUID data and private shop/location data. The documentation ZIP intentionally contains none of those values.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

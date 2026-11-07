@@ -29,3 +29,7 @@ Where trade windows, custom NPC shops or item rewards accept `ItemStack`s, the e
 ## Compatibility policy
 
 Do not promise support for a dependency version simply because its plugin name appears in `softdepend`. Test the exact version and method signatures used by the runtime adapter.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

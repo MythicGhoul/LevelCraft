@@ -32,3 +32,7 @@ Keep special magic effects concentrated around meaningful events: brief particle
 6. Treat client FPS and server tick time as **separate** measurements.
 
 See [Mob scaling](../world/mob-scaling.md), [Encounters](../world/encounters.md) and [World events](../world/events.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

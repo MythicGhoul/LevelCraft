@@ -41,3 +41,7 @@ Hunting and Combat are distinct skills; the same kill may be routed differently 
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

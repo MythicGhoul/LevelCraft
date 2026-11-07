@@ -30,3 +30,7 @@ Black-and-purple items usually mean the selected custom texture is missing, misn
 ## Reloads
 
 Recent builds intended `/lc admin reload` to reload the specialised EXP crystal YAML. Test this on your version: some settings may still require a restart.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

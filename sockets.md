@@ -22,3 +22,7 @@ LevelCraft development tracks **Tier I, Tier II and Tier III** gems. Higher tier
 - The removal permission `lc.sockets` is listed as a player-default permission in the referenced manifest.
 
 Placeholders such as `%levelcraft_held_item_sockets%` and `%levelcraft_held_item_gems%` support HUD integration.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

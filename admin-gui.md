@@ -31,3 +31,7 @@ A GUI can prompt for console commands through chat input. Test reward commands w
 5. Remove test data after confirming that the editor performed correctly.
 
 If a GUI fails to open, verify that the relevant manager initialised and is registered as an event listener. Also check the appropriate permission node.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

@@ -28,3 +28,7 @@ These are the base Minecraft materials used for identification in a referenced i
 - Another plugin cancels the click or prevents combat at the target location.
 
 See [Magic troubleshooting](../administration/troubleshooting.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

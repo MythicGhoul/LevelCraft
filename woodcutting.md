@@ -41,3 +41,7 @@ Tree Feller and related mechanics may have cooldowns and block-protection rules.
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

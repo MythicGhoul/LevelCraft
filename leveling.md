@@ -26,3 +26,7 @@ XP may be adjusted by global double-XP events, prestige rewards, skill effects o
 ## Common reasons XP is denied
 
 Server-controlled reasons can include spawn protection, activity restrictions, already-placed blocks or actions that are not valid XP sources. Recent LevelCraft setups have used a **125-block spawn exclusion** for some XP farming. Check the installed configuration and listeners for the exact scope.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

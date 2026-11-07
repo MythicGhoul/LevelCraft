@@ -63,3 +63,7 @@ Promotion exams may use separate quest definitions or special steps. Optional vo
 - Repeated reward claiming.
 - Missing economy provider.
 - Invalid console commands or plugin-specific item serialization.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

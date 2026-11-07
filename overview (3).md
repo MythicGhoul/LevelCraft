@@ -24,3 +24,7 @@ LevelCraft changes progression, not the basic goal of survival. Players gather r
 ## Recommended reading order
 
 Start with [Installation](installation.md) for server staff or [First character](first-character.md) for players. Then read the [Progression](../progression/overview.md), [Quest](../quests/overview.md) and [Equipment](../equipment/overview.md) guides. The [Reference](../reference/commands.md) is designed to be consulted during play or server setup.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

@@ -28,3 +28,7 @@ This is an **administrative design guide**, not a claim that every server ships 
 5. Test with an F-rank account rather than admin bypass permissions.
 
 See [Quests](overview.md), [Bosses](../world/bosses.md) and [Quest YAML](../reference/quests-config.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

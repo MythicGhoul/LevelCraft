@@ -33,4 +33,8 @@ For each released build, record:
 - Known limitations and changed balance.
 - Whether the documented features are stable, beta or experimental.
 
-Use [Documentation sources](../about/sources.md) as the provenance point when updating this site.
+Use [Documentation sources](../about/sources.md) as the provenance point when updating these guides.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

@@ -35,3 +35,7 @@ These values are taken from a referenced project configuration and should be com
 ## Balancing advice
 
 For low-end clients or small servers, keep per-player density and simultaneous encounter limits conservative. Distance, spawn attempts and nearby-mob caps are as important as the probability of an encounter.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

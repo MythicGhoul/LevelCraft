@@ -27,3 +27,7 @@ Actual marker availability depends on which hooks are enabled by your build and 
 Check world identifiers, marker set visibility, configured integrations, plugin startup ordering, database/state loading and whether the map plugin has finished rendering. If one map works but the other does not, focus on the specific adapter and supported API version.
 
 **Privacy:** publish only the map layers you want players to see. Exposing all clan borders or unrevealed shrines can change your server's intended exploration experience.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

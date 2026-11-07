@@ -27,3 +27,7 @@ Referenced development includes a boss-spawner command family with actions analo
 Limit simultaneously active bosses and expensive particle patterns. Keep area-of-effect checks within a bounded radius, and avoid spawning heavy entities for idle or unloaded arenas.
 
 See [Promotion exams](../quests/promotions.md) and [Mob scaling](mob-scaling.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

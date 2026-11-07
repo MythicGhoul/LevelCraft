@@ -23,3 +23,7 @@ The sixth path was historically presented as **Thief** and later renamed **Shado
 ## Placeholders
 
 The PlaceholderAPI expansion includes `%levelcraft_path%`, `%levelcraft_rank_path%`, `%levelcraft_path_display%`, `%levelcraft_path_primary_skill%` and `%levelcraft_path_secondary_skill%`. See [Placeholders](../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

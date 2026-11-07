@@ -28,3 +28,7 @@ For example, `/lc admin mana Alex add 25` adds 25 mana to an online player. Use 
 ## Configuration
 
 The main configuration includes a `Mana-Settings` section. Preserve the existing indentation and change only the keys actually present in your installed file.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

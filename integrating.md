@@ -29,3 +29,7 @@ Return a safe string for both online and offline/invalid contexts, and avoid exp
 ## Version caution
 
 Do not copy an old code snippet directly into 26.3 without checking updated Bukkit materials, attribute APIs and entity metadata changes.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

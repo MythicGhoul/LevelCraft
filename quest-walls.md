@@ -27,7 +27,13 @@ The wall was designed so **two players can browse independently** without contin
 - Validate that the player is interacting with their own visible menu page.
 - Re-render when progress, permissions or the active menu changes.
 
-!!! note "Command names"
-    The exact wall-binding command syntax is not reproduced here because it is not confirmed in the available command manifest. Use the in-game admin editor or the matching build's help output rather than copying an invented setup command.
+> **Command names**
+>
+> The exact wall-binding command syntax is not reproduced here because it is not confirmed in the available command manifest. Use the in-game admin editor or the matching build's help output rather than copying an invented setup command.
+
 
 For quest definition examples, see [Quest YAML](../reference/quests-config.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

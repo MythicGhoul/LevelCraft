@@ -34,3 +34,7 @@ The referenced village configuration recommends `/lc admin villager` or the Leve
 `VillageTrade.yml` contains `Settings`, `Settings.Generated-Shops` and `NPCs` in the referenced data. Its generated shops include rarity multipliers, material pricing, magic spell prices, socket gems, misc items and enchantment categories.
 
 Read [VillageTrade configuration](../reference/npc-config.md) for a real example.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

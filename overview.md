@@ -27,3 +27,7 @@ LevelCraft includes a broad in-game admin surface for maintaining progression sy
 Prepare a small test world with one fresh account and one experienced account. Keep a separate backup of real player inventories and quest progress before testing changes to persistent item or character data.
 
 [Backups](backups.md) · [Performance](performance.md) · [Troubleshooting](troubleshooting.md) · [Security](security.md)
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

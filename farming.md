@@ -41,3 +41,7 @@ Immature crop breaks may not award XP. Harvest and breed conditions are server-c
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

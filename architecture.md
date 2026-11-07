@@ -39,4 +39,8 @@ Vault is a hard dependency in the referenced manifest; optional integrations sho
 
 ## Builds
 
-The project is managed as an **Eclipse-style non-Maven source project** in the documented workflow. This documentation site itself is unrelated to the Java build tool and can be published without distributing plugin code.
+The project is managed as an **Eclipse-style non-Maven source project** in the documented workflow. This documentation itself is unrelated to the Java build tool and can be published without distributing plugin code.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

@@ -22,5 +22,10 @@ Use `/quests` or `/lc quests`. Start with F-rank activities and learn how questl
 
 Better rarity alone is not everything: read the item's **Power Level** and the player's effective Total Level. Equipment above the player's requirement can suffer effectiveness penalties. Explore [Rarity](../equipment/rarity.md) and [Power Level](../equipment/power-level.md).
 
-!!! tip "Starter gear"
-    Some servers enable an automatic starting kit, including basic uncommon equipment and supplies. The actual kit is server-controlled; see [Admin setup](../administration/overview.md).
+> **Starter gear**
+>
+> Some servers enable an automatic starting kit, including basic uncommon equipment and supplies. The actual kit is server-controlled; see [Admin setup](../administration/overview.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

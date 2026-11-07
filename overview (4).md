@@ -26,3 +26,7 @@ Mana has a maximum capacity, regeneration and per-spell costs. Earlier design ta
 Controls can conflict with item-use or protection plugins; always test in the current version.
 
 Read [Spells](spells.md), [Wands](wands.md) and [Mana](mana.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

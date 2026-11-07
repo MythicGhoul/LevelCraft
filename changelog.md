@@ -2,7 +2,7 @@
 
 ## Initial documentation release — November 2026
 
-- Introduced a complete GitHub Pages-ready documentation framework.
+- Introduced a complete GitHub-native Markdown documentation collection.
 - Added separate guides for all eleven skills.
 - Documented character creation, Total Level, prestige, guild promotions and quests.
 - Added rarity, Power Level, forging, sockets and magic reference sections.
@@ -18,3 +18,7 @@ This is a documentation release, not a plugin changelog. It does not assert that
 ## For future releases
 
 Add an entry with the actual plugin version and publication date. Record changed menus, command syntax, configuration keys and behaviour that affects existing guides.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

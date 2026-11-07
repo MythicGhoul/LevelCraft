@@ -47,11 +47,17 @@ The following permissions come from a referenced `plugin.yml` with plugin versio
 | `lc.clan.admin` | op |
 | `lc.clans.admin.bypass` | op |
 
-!!! warning "Administrative bypass"
-    `lc.clans.admin.bypass` bypasses clan protection rules in the referenced permission description. Give it only to trusted staff, and record actions taken inside player claims.
+> **Administrative bypass**
+>
+> `lc.clans.admin.bypass` bypasses clan protection rules in the referenced permission description. Give it only to trusted staff, and record actions taken inside player claims.
+
 
 ## Practical permission configuration
 
 A minimal survival player normally needs standard LevelCraft UI permissions plus `lc.party.use` and the relevant clan permissions. Admins may need `lc.admin` **and** feature-specific admin nodes, not just operator status in a nonstandard permission setup.
 
 Avoid setting every `lc.*` node to true for the default group: that can grant access to destructive commands and protection bypasses.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

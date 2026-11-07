@@ -18,3 +18,7 @@ Other plugins that control scoreboard teams or player display names can interfer
 If one player sees the custom label while another does not, inspect scoreboard team ownership for both clients, plugin priority, nametag update events and entity cleanup on quit/reload. Floating text should be removed cleanly to avoid static labels remaining in unloaded areas.
 
 See [Troubleshooting](../administration/troubleshooting.md) and [Placeholders](../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

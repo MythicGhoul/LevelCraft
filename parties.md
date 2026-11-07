@@ -22,3 +22,7 @@ The referenced manifest registers `/party` and the alias `/p`. Exact subcommands
 `lc.party.use` and `lc.party.chat` are player-default permissions in the referenced manifest; `lc.party.admin` defaults to operator.
 
 See [XP levels](../progression/leveling.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

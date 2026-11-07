@@ -25,3 +25,7 @@ Unarmed damage can also scale with Combat level using configurable base damage, 
 ## Debugging unexpectedly low damage
 
 Check the target entity's scaling, the weapon's PL, the player's Total Level, enchantments, PvP/PvE flags, projectile handling, damage-cancellation events and other combat plugins. See [Troubleshooting](../administration/troubleshooting.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

@@ -19,3 +19,7 @@ This documentation package is designed for a **public** GitHub repo. Do not add 
 ## Licence
 
 Your existing repository declares EPL-2.0. This package does not replace that `LICENSE`; see [Licence and publication](../about/licence.md) before publishing code or compiled JARs under the same repository.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

@@ -41,3 +41,7 @@ XP is usually awarded on permitted block breaks, subject to anti-farm protection
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

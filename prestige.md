@@ -22,3 +22,7 @@ Open the prestige interface with `/lc prestige`. Review the exact qualification 
 Souls are a separate character resource connected to death protection and loss management. Servers can configure souls and grant them through administration; `/lc admin souls <player> <amount>` appears in a referenced command handler.
 
 See [Placeholders](../reference/placeholders.md) for prestige, souls and ascension values.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

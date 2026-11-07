@@ -41,3 +41,7 @@ Repetitive crafting may be subject to server balancing and item restrictions.
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

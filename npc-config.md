@@ -51,3 +51,7 @@ Shop items may use a complete Bukkit `ItemStack` serialization rather than a sim
 ## Common problems
 
 If a shop is visible but not selling, check the NPC function, category, price, Vault provider, item serialization, stack amount and inventory capacity. If a guild loot buyer is absent, inspect both NPC type settings and the `Guild Buyer` configuration options.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

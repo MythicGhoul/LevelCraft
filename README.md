@@ -1,51 +1,105 @@
-# LevelCraft — Documentation
+# LevelCraft Documentation
 
-**Forge Your Path. Master Your Craft. Become Legend.**
+> **Forge Your Path. Master Your Craft. Become Legend.**
 
-A full multi-page, searchable documentation website for **LevelCraft**, an RPG progression plugin for Minecraft by **MythicGhoul**.
+Welcome to the official documentation library for **LevelCraft**, the Minecraft RPG progression plugin by **MythicGhoul**.
 
-[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-8b5cf6)](https://mythicghoul.github.io/LevelCraft/) [![Minecraft](https://img.shields.io/badge/Minecraft-RPG-22d3ee)](https://www.spigotmc.org/resources/110629/)
+All guides are plain Markdown and open directly in GitHub. Choose a topic below; each major feature has its own page.
 
-### Explore the documentation
+## 🚀 Getting started
 
-| Getting started | Player progression | Equipment & magic | Worlds & servers |
-| --- | --- | --- | --- |
-| [Install](docs/getting-started/installation.md) | [Eleven skills](docs/progression/skills/index.md) | [Rarity](docs/equipment/rarity.md) | [Corruption](docs/world/corruption.md) |
-| [First character](docs/getting-started/first-character.md) | [Races](docs/progression/races.md) | [Power Level](docs/equipment/power-level.md) | [World shrines](docs/world/shrines.md) |
-| [FAQs](docs/getting-started/faq.md) | [Paths](docs/progression/paths.md) | [Sockets](docs/equipment/sockets.md) | [Clans](docs/social/clans.md) |
-| [Commands](docs/reference/commands.md) | [Quests](docs/quests/overview.md) | [Sorcery](docs/magic/overview.md) | [Admin guide](docs/administration/overview.md) |
+| Guide | Contents |
+| --- | --- |
+| [Overview](getting-started/overview.md) | A quick introduction for players, admins and developers |
+| [Installation](getting-started/installation.md) | Dependencies, installation and updating |
+| [Your first character](getting-started/first-character.md) | Race, path, starter gear and first steps |
+| [Frequently asked questions](getting-started/faq.md) | Common gameplay and setup questions |
 
-**[Open the full navigation](docs/index.md)** — the GitHub Pages site adds a sidebar, top navigation, search, light/dark toggle, on-page contents and mobile layout.
+## ⚔️ Character progression
 
-## Publish as a GitHub Pages website
+| Guide | Contents |
+| --- | --- |
+| [Progression overview](progression/overview.md) | How all the systems connect |
+| [All 11 skills](progression/skills/index.md) | Individual skill guides |
+| [Total Level & XP](progression/leveling.md) | How overall progression is calculated |
+| [Skill milestones](progression/milestones.md) | Progression rewards and milestone bonuses |
+| [Races](progression/races.md) | Human, Elf, Dwarf, Beastkin, Infernal and Celestial |
+| [Paths](progression/paths.md) | Warrior, Ranger, Mage, Craftsman, Explorer and Thief / Shadow |
+| [Guild ranks](progression/guild-ranks.md) | F through S-rank progression |
+| [Prestige](progression/prestige.md) | End-game progression and resets |
 
-These files are designed to be **added to your existing `MythicGhoul/LevelCraft` repository**. Keep the existing `LICENSE` file; this package does not replace it. It does not include the private Java plugin source.
+### Individual skills
 
-1. Download and extract the documentation ZIP.
-2. Copy its **contents** (`docs/`, `.github/`, `mkdocs.yml`, `requirements-docs.txt`, `README.md`, etc.) into the root of your existing repo.
-3. Commit and push to the **`main`** branch.
-4. In **GitHub → repository Settings → Pages**, set **Build and deployment → Source → GitHub Actions**.
-5. Open the **Actions** tab and check the “Deploy LevelCraft docs” run. The expected address is <https://mythicghoul.github.io/LevelCraft/>.
+| | | |
+| --- | --- | --- |
+| [Combat](progression/skills/combat.md) | [Mining](progression/skills/mining.md) | [Woodcutting](progression/skills/woodcutting.md) |
+| [Farming](progression/skills/farming.md) | [Fishing](progression/skills/fishing.md) | [Hunting](progression/skills/hunting.md) |
+| [Smithing](progression/skills/smithing.md) | [Exploration](progression/skills/exploration.md) | [Excavation](progression/skills/excavation.md) |
+| [Crafting](progression/skills/crafting.md) | [Sorcery](progression/skills/sorcery.md) | |
 
-The `deploy-docs.yml` workflow builds MkDocs Material with search and publishes the result automatically on future `main` updates.
+## 🧙 Equipment, crafting & magic
 
-### Local preview (optional)
+| Equipment | Magic |
+| --- | --- |
+| [Equipment overview](equipment/overview.md) | [Sorcery overview](magic/overview.md) |
+| [Rarity tiers](equipment/rarity.md) | [Spell catalogue](magic/spells.md) |
+| [Power Level requirements](equipment/power-level.md) | [Wands](magic/wands.md) |
+| [Socket gems](equipment/sockets.md) | [Mana](magic/mana.md) |
+| [Forging](equipment/forging.md) | [Custom items](economy/custom-items.md) |
+| [Combat scaling](equipment/combat-scaling.md) | [Crafting systems](economy/crafting-systems.md) |
 
-```bash
-python -m venv .venv
-# Activate .venv using the command appropriate for your OS
-pip install -r requirements-docs.txt
-mkdocs serve
-```
+## 📜 Quests and promotion exams
 
-Open `http://127.0.0.1:8000/` to preview changes. For a production-equivalent check, run `mkdocs build --strict`.
+| Guide | Contents |
+| --- | --- |
+| [Quest system](quests/overview.md) | Accepting, tracking, claiming and completing quests |
+| [Promotion exams](quests/promotions.md) | Rank progression encounters |
+| [Interactive quest walls](quests/quest-walls.md) | Questline selection and sign-wall controls |
+| [Quest YAML reference](reference/quests-config.md) | Defining quest types, objectives and rewards |
 
-## What is included?
+## 🌍 World systems
 
-Documentation covers installation, character creation, eleven skill pages, milestones, Total Level, guild ranks, quests and promotion exams, quest walls, rarity, Power Level, socket gems, forging, Sorcery, spells, mana, world corruption, shrines, bosses, encounters, global events, Dynmap, BlueMap, economy, NPC shops, special items, parties, clans, trade, nametags, configuration, command/permission references, PlaceholderAPI, backups, performance and troubleshooting.
+| Guide | Contents |
+| --- | --- |
+| [World overview](world/overview.md) | Overview of dynamic world features |
+| [Mob scaling](world/mob-scaling.md) | Scaling and level balance |
+| [Corruption](world/corruption.md) | Cores, guardians, spread and cleansing |
+| [Shrines](world/shrines.md) | Structures, loot and collapse events |
+| [Bosses](world/bosses.md) | Boss spawners and encounters |
+| [Roaming encounters](world/encounters.md) | Dynamic enemy groups |
+| [World events](world/events.md) | XP events, Blood Moon and fishing events |
+| [Dynmap and BlueMap](world/maps.md) | Map overlays and integrations |
 
-## Important release note
+## 🏰 Social systems and economy
 
-The **public GitHub repository has only the licence at the time these files were prepared**. The documentation has been based on public feature descriptions and LevelCraft project-development materials. Exact balance, available commands and integration support may vary by build. Read [Sources & verification](docs/about/sources.md) before treating version-dependent details as a release guarantee.
+| Social | Economy |
+| --- | --- |
+| [Clans](social/clans.md) | [Coins](economy/coins.md) |
+| [Parties](social/parties.md) | [NPC shops](economy/npc-shops.md) |
+| [Direct player trading](social/player-trading.md) | [Custom items](economy/custom-items.md) |
+| [Player nametags](social/nametags.md) | [Crafting systems](economy/crafting-systems.md) |
+| [Social overview](social/overview.md) | [Economy overview](economy/overview.md) |
 
-LevelCraft is an independent Minecraft plugin by MythicGhoul and is not affiliated with Mojang or Microsoft.
+## 🛠️ Administration and technical reference
+
+| Administration | Reference & development |
+| --- | --- |
+| [Admin overview](administration/overview.md) | [Commands](reference/commands.md) |
+| [Admin GUI](administration/admin-gui.md) | [Permissions](reference/permissions.md) |
+| [EXP crystals](administration/exp-crystals.md) | [PlaceholderAPI](reference/placeholders.md) |
+| [Backups and updates](administration/backups.md) | [Configuration](reference/configuration.md) |
+| [Performance](administration/performance.md) | [NPC shop YAML](reference/npc-config.md) |
+| [Security](administration/security.md) | [Integrations](reference/integrations.md) |
+| [Troubleshooting](administration/troubleshooting.md) | [Architecture](development/architecture.md) |
+| | [Integration development](development/integrating.md) |
+| | [Testing](development/testing.md) |
+
+## ℹ️ About the documentation
+
+[Documentation sources and verification](about/sources.md) · [Changelog](about/changelog.md) · [Licence and publication](about/licence.md)
+
+> **Accuracy note:** This collection is based on LevelCraft project materials and previously reviewed configuration and source excerpts. Some changes may be newer than the last verified source snapshot. Verify exact commands, values and behaviour against the LevelCraft build installed on your server.
+
+---
+
+[← Back to the LevelCraft repository](../README.md)

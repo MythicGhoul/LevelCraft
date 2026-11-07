@@ -24,8 +24,10 @@ This page separates commands **seen in the referenced `plugin.yml` or `LevelCraf
 | `/lc quests claim <quest>` | Claim a ready quest | Documented in handler |
 | `/spells` or `/spellbook` | Aliases of main `/lc` dispatcher | Registered (behaviour handled in code) |
 
-!!! info "Aliases and version differences"
-    A registered command alias can route to a specific menu even when its `plugin.yml` entry points to `/lc`. For example, Sorcery aliases may open the spellbook on current builds. Use the installed version's help output as the definitive behaviour.
+> **Aliases and version differences**
+>
+> A registered command alias can route to a specific menu even when its `plugin.yml` entry points to `/lc`. For example, Sorcery aliases may open the spellbook on current builds. Use the installed version's help output as the definitive behaviour.
+
 
 ## Confirmed administration commands
 
@@ -71,3 +73,7 @@ Use `/lc admin` to access the admin GUI when enabled; administrative subcommands
 ## When a command does nothing
 
 Check whether it is listed by `/help`, whether the implementation is registered in the correct JAR, whether the sender is a player or console, and whether permissions or another plugin intercepted it. See [Troubleshooting](../administration/troubleshooting.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

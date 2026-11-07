@@ -29,3 +29,7 @@ The referenced plugin manifest includes `lc.clan.use`, `lc.clan.create`, `lc.cla
 ## Admin warning
 
 Clan data influences build permissions and the corruption spawn exclusion radius. Any change to claim storage or map hooks should be tested for data integrity and unclaim side effects.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

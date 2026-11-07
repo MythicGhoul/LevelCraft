@@ -27,3 +27,7 @@ The transmutation system has a balance value exposed as `%levelcraft_transmutati
 - Confirm furnace data survives restarts.
 - Prevent shift-click crafting from bypassing quantity and item metadata checks.
 - Verify custom-item conversion cannot duplicate currency or equipment.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

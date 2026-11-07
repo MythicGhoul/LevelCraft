@@ -26,3 +26,7 @@ Unconverted vanilla tools may appear in structure chests unless a loot conversio
 ## Admin caution
 
 The item **display name** alone is not the authoritative marker of LevelCraft rarity; internal metadata and custom lore matter. Never identify an item as converted solely because its name is coloured.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

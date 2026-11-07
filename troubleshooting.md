@@ -53,3 +53,7 @@ Check encounter caps, corruption chunks, shrine collapse batches, high-frequency
 ## Last resort: minimal reproduction
 
 Copy the server to staging, disable nonrequired integrations, reproduce with one test account, collect a precise stack trace and re-enable other plugins one at a time. Never remove a production player's `.yml` data to “test” a fix without first saving it.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

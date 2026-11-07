@@ -23,3 +23,7 @@ LevelCraft's forging system gives players a route to enhance equipment beyond no
 The **Smithing skill** tracks crafting-oriented progression, while the **Forge system** handles custom equipment enhancement. They complement one another but are not identical.
 
 See [Rarity](rarity.md), [Sockets](sockets.md) and [NPC shops](../economy/npc-shops.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

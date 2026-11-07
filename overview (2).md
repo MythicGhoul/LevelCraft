@@ -17,3 +17,7 @@ An item with better rarity but an excessive Power Level can be less useful to a 
 ## Useful links
 
 [Rarity](rarity.md) · [Power Level](power-level.md) · [Sockets & gems](sockets.md) · [Forging](forging.md) · [Custom items](../economy/custom-items.md)
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

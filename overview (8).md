@@ -1,12 +1,21 @@
-# Playing together
+# The living world
 
-LevelCraft supports several multiplayer interaction systems without replacing normal Minecraft cooperation.
+LevelCraft turns exploration into an evolving challenge. Mob levels respond to player progression, corruption cores can threaten regions, shrines offer discoverable structures and configurable encounters create unexpected danger.
 
-| System | Primary purpose |
+| World system | Main gameplay |
 | --- | --- |
-| [Parties](parties.md) | Small-group cooperation and nearby XP sharing |
-| [Clans](clans.md) | Longer-term organisations, ranks and territory |
-| [Direct trading](player-trading.md) | Item-for-item exchange between two players |
-| [Nametags](nametags.md) | Character identity, guild rank and health display |
+| [Mob scaling](mob-scaling.md) | Mobs grow with player progression. |
+| [Corruption](corruption.md) | Region-threatening cores and guardians. |
+| [Shrines](shrines.md) | Find structures, collect loot and watch collapse events. |
+| [Bosses](bosses.md) | Custom encounters, spawners and promotional challenges. |
+| [World encounters](encounters.md) | Patrols and themed random enemy groups. |
+| [World events](events.md) | Blood Moon, XP boosts and fishing competitions. |
+| [Maps](maps.md) | Dynmap and BlueMap markers and overlays. |
 
-A party and a clan are not the same entity. A player can belong to a persistent clan but temporarily group with a different team for a boss fight, if server rules allow it.
+## A design principle
+
+Not every system has to scale linearly with the player's level. Ordinary mobs can have gentler growth, while special bosses, the Wither, Ender Dragon, Wardens and corruption guardians retain deliberately exceptional rules.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

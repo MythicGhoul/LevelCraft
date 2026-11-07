@@ -49,3 +49,7 @@ Rewards may contain special corrupted items, themed weapons and other equipment.
 A referenced design prevents cores from appearing within a large exclusion radius of clan bases and keeps them away from spawn. Admins should configure exclusions carefully to avoid destroying protected builds.
 
 See [Maps](maps.md) for web overlays and [Events](events.md) for Hive-related world threats.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

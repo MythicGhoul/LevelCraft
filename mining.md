@@ -41,3 +41,7 @@ Some XP sources treat placed blocks differently; special ore drops are controlle
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

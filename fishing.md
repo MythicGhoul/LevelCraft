@@ -41,3 +41,7 @@ Fishing XP can scale with fish weight; the catch and event configurations contro
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

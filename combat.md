@@ -41,3 +41,7 @@ PvP and PvE may award differently. Mob difficulty scales with a player-related l
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

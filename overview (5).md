@@ -24,3 +24,7 @@ flowchart TD
 ```
 
 **Important distinction:** Guild rank is not identical to Total Level. A player can have a high Total Level while still needing to complete promotion requirements or exam encounters.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

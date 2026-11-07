@@ -21,3 +21,7 @@ Coins provide a spendable progression resource. They can originate from creature
 ## Security and balancing
 
 Do not trust client-visible item names or transaction GUI text as the source of truth for balance changes. Item costs and item delivery should be validated server-side. For bulk purchases, deduct the intended total before or atomically with item delivery.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

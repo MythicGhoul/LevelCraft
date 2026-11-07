@@ -41,3 +41,7 @@ Recent design work replaced or revised random dropped rewards; exact exploration
 ```
 
 These require the optional PlaceholderAPI integration. See [Placeholder reference](../../reference/placeholders.md).
+
+---
+
+[← Documentation contents](../../README.md) · [Project homepage](../../../README.md)

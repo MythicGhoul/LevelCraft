@@ -1,21 +1,22 @@
 # Licence and publication
 
-The public GitHub repository includes a `LICENSE` declaring **Eclipse Public License 2.0 (EPL-2.0)**. This docs package deliberately omits a new `LICENSE` file so uploading it **will not overwrite your existing licence**.
+The existing LevelCraft repository contains a `LICENSE` file declaring the **Eclipse Public License 2.0 (EPL-2.0)**. This documentation package **does not contain a new licence file**, so it will not overwrite the repository's existing licence.
 
-## What the ZIP contains
+## What is included
 
-- A public-facing README.
-- `mkdocs.yml` with multi-section navigation.
-- `docs/` containing standalone Markdown pages, custom CSS and a small icon.
-- A GitHub Actions workflow for building and publishing the documentation site.
-- `requirements-docs.txt` and contributor guidance.
+- A GitHub-native project `README.md` with a navigation directory.
+- Individual Markdown files under `docs/` for player guides, systems, administration and technical references.
+- A `docs/README.md` acting as the full documentation contents page.
+- A `CONTRIBUTING.md` guide for maintaining the documentation.
 
-It does **not** contain LevelCraft's private Java implementation, compiled JAR, server data, passwords or custom third-party assets.
+There is **no GitHub Pages website**, no MkDocs configuration, no build workflow, and no need to deploy anything. Open pages directly on GitHub.
 
-## Publishing source code
+## Private implementation
 
-A public documentation repository and a public source-code repository are not the same thing. Carefully review the licence and distribution requirements before adding proprietary plugin code or binaries. If the project has third-party dependencies or artwork, check their terms as well.
+This documentation package does not include Java source, compiled JAR files, private server data, webhooks, credentials or bundled third-party assets. Before releasing any plugin binaries or source code, review your rights, dependency licences and existing repository licence.
 
-## Unofficial status
+LevelCraft is developed independently by MythicGhoul and is not affiliated with Mojang or Microsoft.
 
-Minecraft is the property of its respective owners. LevelCraft is independently developed by MythicGhoul and is not affiliated with Mojang or Microsoft.
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

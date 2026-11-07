@@ -9,3 +9,7 @@ The configuration manifest identifies **Vault as a required dependency**, but Va
 ## Economy systems
 
 [Coin economy](coins.md) · [NPC shops](npc-shops.md) · [Custom items](custom-items.md) · [Player trading](../social/player-trading.md) · [Transmutation and furnaces](crafting-systems.md)
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

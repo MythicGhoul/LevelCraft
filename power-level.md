@@ -21,3 +21,7 @@ A player at Total Level 65 finds a Legendary sword with Power Level 120. Its des
 **Do ranged weapons use it?** They should participate in the intended damage pipeline. Older projectile issues produced unexpectedly low bow or trident damage; test your current build and consult [Combat troubleshooting](../administration/troubleshooting.md).
 
 **Where can I inspect it?** Check the item lore, the custom character interface or `%levelcraft_held_item_power%` when PlaceholderAPI is installed.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

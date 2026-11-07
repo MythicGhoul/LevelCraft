@@ -63,3 +63,7 @@ This is a **partial excerpt** and must be merged into your complete generated co
 7. Review the auto-updater's config backups after version upgrades.
 
 See [Quest configuration](quests-config.md), [Shop configuration](npc-config.md) and [Performance](../administration/performance.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

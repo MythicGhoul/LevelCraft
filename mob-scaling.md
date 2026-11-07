@@ -50,3 +50,7 @@ Bosses and certain exceptional entities (such as Wardens, Withers, Ender Dragons
 ## Diagnostics
 
 When a level-10 player meets an unexpectedly powerful mob, check nearby high-level players, stale metadata on already-spawned mobs, a special-entity exception, world encounters and other plugins that modify attributes.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

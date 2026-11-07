@@ -14,8 +14,10 @@ LevelCraft is a server-side Bukkit/Spigot-style plugin. Install the build that m
 | WorldEdit / FastAsyncWorldEdit | Optional, feature-dependent | Supports schematic-based shrine/world-structure workflows. |
 | MythicEnchant | Optional | Integration points for custom enchantments/items where supported. |
 
-!!! warning "Compatibility"
-    Minecraft/Spigot versions can change quickly. A release's exact supported server versions must be verified against that release; a `26.3` development manifest does **not** guarantee compatibility with older builds or non-Spigot forks.
+> **Compatibility**
+>
+> Minecraft/Spigot versions can change quickly. A release's exact supported server versions must be verified against that release; a `26.3` development manifest does **not** guarantee compatibility with older builds or non-Spigot forks.
+
 
 ## Install steps
 
@@ -40,3 +42,7 @@ LevelCraft is a server-side Bukkit/Spigot-style plugin. Install the build that m
 ## Updating safely
 
 Copy both the old JAR and the entire `plugins/LevelCraft/` data folder somewhere safe. Replace the JAR, review newly generated or migrated YAML keys and test in staging. Do not blindly replace customised data files with defaults. See [Updates & backups](../administration/backups.md).
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

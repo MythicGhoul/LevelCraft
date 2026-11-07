@@ -1,6 +1,6 @@
 # Documentation sources & version status
 
-This documentation package was assembled using public LevelCraft information and project materials from previous development sessions. It is designed as a **substantial initial documentation site**, not as a claim that every implementation detail has been verified against the newest compiled JAR.
+This documentation package was assembled using public LevelCraft information and project materials from previous development sessions. It is designed as a **substantial initial documentation collection**, not as a claim that every implementation detail has been verified against the newest compiled JAR.
 
 ## Main sources
 
@@ -21,3 +21,7 @@ This documentation package was assembled using public LevelCraft information and
 ## How to keep docs authoritative
 
 After each LevelCraft release, export the active `plugin.yml`, current config defaults, real command help, item registry and feature states; review changed pages and remove any stale entries. This avoids mixing old ideas with currently shipped gameplay.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)

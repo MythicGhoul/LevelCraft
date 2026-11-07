@@ -145,3 +145,7 @@ The referenced expansion also provides clan, boss-spawner and leaderboard famili
 ## Testing placeholders
 
 Use a PlaceholderAPI test command such as `/papi parse me %levelcraft_total_level%` if supported by your PlaceholderAPI version. If it remains literal, check that PlaceholderAPI loaded, the LevelCraft expansion registered successfully and the identifier matches the source.
+
+---
+
+[← Documentation contents](../README.md) · [Project homepage](../../README.md)
