@@ -32,8 +32,8 @@ The wall was designed so **two players can browse independently** without contin
 > The exact wall-binding command syntax is not reproduced here because it is not confirmed in the available command manifest. Use the in-game admin editor or the matching build's help output rather than copying an invented setup command.
 
 
-For quest definition examples, see [Quest YAML](../reference/quests-config.md).
+For quest definition examples, see [Quest YAML](https://github.com/MythicGhoul/LevelCraft/wiki/Reference-Quests-Config).
 
 ---
 
-[← Documentation contents](../README.md) · [Project homepage](../../README.md)
+[🏠 Wiki Home](https://github.com/MythicGhoul/LevelCraft/wiki/Home) · [📚 Quests](https://github.com/MythicGhoul/LevelCraft/wiki/Quests) · [↗ GitHub repository](https://github.com/MythicGhoul/LevelCraft)

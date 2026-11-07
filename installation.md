@@ -41,8 +41,8 @@ LevelCraft is a server-side Bukkit/Spigot-style plugin. Install the build that m
 
 ## Updating safely
 
-Copy both the old JAR and the entire `plugins/LevelCraft/` data folder somewhere safe. Replace the JAR, review newly generated or migrated YAML keys and test in staging. Do not blindly replace customised data files with defaults. See [Updates & backups](../administration/backups.md).
+Copy both the old JAR and the entire `plugins/LevelCraft/` data folder somewhere safe. Replace the JAR, review newly generated or migrated YAML keys and test in staging. Do not blindly replace customised data files with defaults. See [Updates & backups](https://github.com/MythicGhoul/LevelCraft/wiki/Admin-Backups).
 
 ---
 
-[← Documentation contents](../README.md) · [Project homepage](../../README.md)
+[🏠 Wiki Home](https://github.com/MythicGhoul/LevelCraft/wiki/Home) · [📚 Getting Started](https://github.com/MythicGhoul/LevelCraft/wiki/Getting-Started) · [↗ GitHub repository](https://github.com/MythicGhoul/LevelCraft)

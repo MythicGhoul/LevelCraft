@@ -21,8 +21,8 @@ Open the prestige interface with `/lc prestige`. Review the exact qualification 
 
 Souls are a separate character resource connected to death protection and loss management. Servers can configure souls and grant them through administration; `/lc admin souls <player> <amount>` appears in a referenced command handler.
 
-See [Placeholders](../reference/placeholders.md) for prestige, souls and ascension values.
+See [Placeholders](https://github.com/MythicGhoul/LevelCraft/wiki/Reference-Placeholders) for prestige, souls and ascension values.
 
 ---
 
-[← Documentation contents](../README.md) · [Project homepage](../../README.md)
+[🏠 Wiki Home](https://github.com/MythicGhoul/LevelCraft/wiki/Home) · [📚 Progression](https://github.com/MythicGhoul/LevelCraft/wiki/Character-Progression) · [↗ GitHub repository](https://github.com/MythicGhoul/LevelCraft)

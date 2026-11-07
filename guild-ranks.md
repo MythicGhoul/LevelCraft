@@ -18,8 +18,8 @@ A player may reach a level high enough to wield certain equipment yet lack the r
 
 ## Troubleshooting a failed promotion
 
-Check that the exam is active, that all questline steps are complete, that any required boss was defeated for the correct player or party, and that the claiming action occurred. An administrator should inspect [Quest configuration](../reference/quests-config.md) and any rank-reward commands before resetting progress.
+Check that the exam is active, that all questline steps are complete, that any required boss was defeated for the correct player or party, and that the claiming action occurred. An administrator should inspect [Quest configuration](https://github.com/MythicGhoul/LevelCraft/wiki/Reference-Quests-Config) and any rank-reward commands before resetting progress.
 
 ---
 
-[← Documentation contents](../README.md) · [Project homepage](../../README.md)
+[🏠 Wiki Home](https://github.com/MythicGhoul/LevelCraft/wiki/Home) · [📚 Progression](https://github.com/MythicGhoul/LevelCraft/wiki/Character-Progression) · [↗ GitHub repository](https://github.com/MythicGhoul/LevelCraft)

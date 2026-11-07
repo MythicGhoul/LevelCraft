@@ -27,8 +27,8 @@ Races define the character's origin and modify strengths and weaknesses. The cur
 
 Admins can reset race selection when necessary. When changing race data, also consider any scoreboard, PlaceholderAPI or nametag consumers. Race placeholders include `%levelcraft_race%`, `%levelcraft_race_display%`, `%levelcraft_race_id%`, `%levelcraft_race_drawback%` and `%levelcraft_race_drawback_description%` in the referenced expansion.
 
-See [Paths](paths.md) for the second character identity choice.
+See [Paths](https://github.com/MythicGhoul/LevelCraft/wiki/Paths) for the second character identity choice.
 
 ---
 
-[← Documentation contents](../README.md) · [Project homepage](../../README.md)
+[🏠 Wiki Home](https://github.com/MythicGhoul/LevelCraft/wiki/Home) · [📚 Progression](https://github.com/MythicGhoul/LevelCraft/wiki/Character-Progression) · [↗ GitHub repository](https://github.com/MythicGhoul/LevelCraft)

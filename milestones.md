@@ -23,8 +23,8 @@ Discovery progress is generally stored persistently, including records in `disco
 
 An ore drop system can produce **skill EXP crystals** as special amethyst-shard items. A crystal contains a skill identity in persistent item data and awards a configured XP amount when used. Servers can apply texture-pack variants for different skills.
 
-Avoid copying a crystal's display name onto a normal item and assuming it will work: the item uses internal metadata. See [Custom items](../economy/custom-items.md).
+Avoid copying a crystal's display name onto a normal item and assuming it will work: the item uses internal metadata. See [Custom items](https://github.com/MythicGhoul/LevelCraft/wiki/Economy-Custom-Items).
 
 ---
 
-[← Documentation contents](../README.md) · [Project homepage](../../README.md)
+[🏠 Wiki Home](https://github.com/MythicGhoul/LevelCraft/wiki/Home) · [📚 Progression](https://github.com/MythicGhoul/LevelCraft/wiki/Character-Progression) · [↗ GitHub repository](https://github.com/MythicGhoul/LevelCraft)

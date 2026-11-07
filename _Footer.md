@@ -1,0 +1,1 @@
+**LevelCraft Wiki** · [Home](https://github.com/MythicGhoul/LevelCraft/wiki/Home) · [Commands](https://github.com/MythicGhoul/LevelCraft/wiki/Reference-Commands) · [Troubleshooting](https://github.com/MythicGhoul/LevelCraft/wiki/Admin-Troubleshooting) · [Main repository](https://github.com/MythicGhoul/LevelCraft)

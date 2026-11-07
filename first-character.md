@@ -4,11 +4,11 @@ When joining a world configured for LevelCraft onboarding, your first major deci
 
 ## 1. Select a race
 
-Choose **Human, Elf, Dwarf, Beastkin, Infernal or Celestial**. Each race has benefits and a drawback. Read the displayed bonuses carefully: the choice changes play style, not only cosmetics. Confirm the choice through the server's configured selection interface. See [Races](../progression/races.md).
+Choose **Human, Elf, Dwarf, Beastkin, Infernal or Celestial**. Each race has benefits and a drawback. Read the displayed bonuses carefully: the choice changes play style, not only cosmetics. Confirm the choice through the server's configured selection interface. See [Races](https://github.com/MythicGhoul/LevelCraft/wiki/Races).
 
 ## 2. Select a path
 
-Choose **Warrior, Ranger, Mage, Craftsman, Explorer or Thief/Shadow**. Paths are a progression identity with complementary bonuses and limitations. In recent builds the choice uses a short second-click confirmation window to help prevent accidental selection. See [Paths](../progression/paths.md).
+Choose **Warrior, Ranger, Mage, Craftsman, Explorer or Thief/Shadow**. Paths are a progression identity with complementary bonuses and limitations. In recent builds the choice uses a short second-click confirmation window to help prevent accidental selection. See [Paths](https://github.com/MythicGhoul/LevelCraft/wiki/Paths).
 
 ## 3. Open your character sheet
 
@@ -20,12 +20,12 @@ Use `/quests` or `/lc quests`. Start with F-rank activities and learn how questl
 
 ## 5. Upgrade deliberately
 
-Better rarity alone is not everything: read the item's **Power Level** and the player's effective Total Level. Equipment above the player's requirement can suffer effectiveness penalties. Explore [Rarity](../equipment/rarity.md) and [Power Level](../equipment/power-level.md).
+Better rarity alone is not everything: read the item's **Power Level** and the player's effective Total Level. Equipment above the player's requirement can suffer effectiveness penalties. Explore [Rarity](https://github.com/MythicGhoul/LevelCraft/wiki/Equipment-Rarity) and [Power Level](https://github.com/MythicGhoul/LevelCraft/wiki/Equipment-Power-Level).
 
 > **Starter gear**
 >
-> Some servers enable an automatic starting kit, including basic uncommon equipment and supplies. The actual kit is server-controlled; see [Admin setup](../administration/overview.md).
+> Some servers enable an automatic starting kit, including basic uncommon equipment and supplies. The actual kit is server-controlled; see [Admin setup](https://github.com/MythicGhoul/LevelCraft/wiki/Administration).
 
 ---
 
-[← Documentation contents](../README.md) · [Project homepage](../../README.md)
+[🏠 Wiki Home](https://github.com/MythicGhoul/LevelCraft/wiki/Home) · [📚 Getting Started](https://github.com/MythicGhoul/LevelCraft/wiki/Getting-Started) · [↗ GitHub repository](https://github.com/MythicGhoul/LevelCraft)
